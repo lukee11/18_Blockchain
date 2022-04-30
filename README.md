@@ -1,10 +1,11 @@
+
 # 18_Blockchain
 
 ##  PyChain Ledger
 
 ![alt=""](Images/application-image.png)
 
----
+
 
 ### Background
 This project aims to create a blockchain-based ledger system with a user-friendly online interface. This ledger enables partner banks to undertake financial transactions (that is, money transfers between senders and receivers) and validate the ledger's data integrity.
@@ -21,7 +22,7 @@ Steps completed:
 
 ![alt=""](Images/ledger.PNG)
 
----
+
 
 ### Streamlit Application
 
@@ -30,7 +31,6 @@ In minutes, Streamlit transforms data scripts into shareable web apps.
 Everything is written in Python. There is no requirement for prior frontend experience.
 
 ---
-
 ### File
 
 [PyChain](My_Code/pychain.py)
