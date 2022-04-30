@@ -1,7 +1,6 @@
 
-# 18_Blockchain
+# 18_Blockchain - PyChain_Ledger
 
-##  PyChain Ledger
 ![alt=""](Images/application-image.png)
 
 ### Background
