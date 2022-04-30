@@ -2,10 +2,7 @@
 # 18_Blockchain
 
 ##  PyChain Ledger
-
 ![alt=""](Images/application-image.png)
-
-
 
 ### Background
 This project aims to create a blockchain-based ledger system with a user-friendly online interface. This ledger enables partner banks to undertake financial transactions (that is, money transfers between senders and receivers) and validate the ledger's data integrity.
